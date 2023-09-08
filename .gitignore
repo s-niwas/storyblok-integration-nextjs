@@ -1,0 +1,31 @@
+# Node.js related files and folders
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables (store these in a .env file and add it to .gitignore)
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Next.js build directory
+.next/
+
+# Storyblok specific files
+.storyblok/
+.storyblok.js
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-related files
+.vscode/
+.idea/
+
+# Compiled output
+out/

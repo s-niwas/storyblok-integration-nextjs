@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@storyblok/react": "^2.4.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.15",
+    "next": "latest",
+    "postcss": "^8.4.29",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "storyblok-rich-text-react-renderer": "^2.9.0",
+    "tailwindcss": "^3.3.3",
+    "tailwindcss-fluid-type": "^2.0.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
